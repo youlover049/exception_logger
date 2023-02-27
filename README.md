@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Merge pull request #22 from SkalskiP/patch-1
