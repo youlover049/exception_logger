@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
