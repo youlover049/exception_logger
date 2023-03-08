@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
