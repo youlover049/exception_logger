@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
