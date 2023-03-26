@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
