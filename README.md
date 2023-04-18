@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Update OpenVINO INT8 export (#7515)
