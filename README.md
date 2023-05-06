@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add TensorRT Docs Integrations Page (#7855)
