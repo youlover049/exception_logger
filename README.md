@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Fix docker.yaml double-quote version bug (#7452)
