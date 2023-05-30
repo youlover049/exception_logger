@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
