@@ -1,1 +1,1 @@
-add yolov10
+Add horizontal Mosaic3 augmentation (#6898)
