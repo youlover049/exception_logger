@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
