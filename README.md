@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+* fix for predicting with batch_size > 1
