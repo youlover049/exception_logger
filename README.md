@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix OpenVINO missing batch-size bug (#9264)
