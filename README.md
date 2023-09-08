@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
