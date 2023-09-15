@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Remove unused variables (#8511)
