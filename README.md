@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
