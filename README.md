@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
