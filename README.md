@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
