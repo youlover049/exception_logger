@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Merge pull request #22 from SkalskiP/patch-1
