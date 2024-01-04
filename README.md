@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Fix RTDETR generate anchor grid out of boundary (#7247)
