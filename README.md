@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update the heatmap module code + docs (#7045)
