@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Add PR Summary step to Ultralytics Actions (#7675)
