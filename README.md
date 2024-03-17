@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
