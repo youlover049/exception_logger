@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
