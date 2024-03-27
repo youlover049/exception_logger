@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+OpenVino 2024.0.0 (#8726)
