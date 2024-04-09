@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+New HUB Cloud Training docs page (#8174)
