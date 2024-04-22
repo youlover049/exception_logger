@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
