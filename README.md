@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update CITATION.cff with cffinit corrections (#8658)
