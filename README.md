@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add OBB save_txt feature (#7450)
