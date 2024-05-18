@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+New HUB Cloud Training docs page (#8174)
