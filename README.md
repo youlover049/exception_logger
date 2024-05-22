@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
