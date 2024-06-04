@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
