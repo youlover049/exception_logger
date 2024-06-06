@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
