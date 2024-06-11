@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
