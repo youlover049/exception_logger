@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
