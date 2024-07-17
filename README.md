@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
