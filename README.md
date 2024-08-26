@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
